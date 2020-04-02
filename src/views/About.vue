@@ -1,6 +1,6 @@
 <template>
   <div class="about-page">
-    <div class="video-section">
+    <div class="video-section" v-if="false">
       <video
         ref="video"
         class="video-content"
@@ -10,7 +10,7 @@
     </div>
     <div class="article-section">
       <div class="article-content">
-        <div class="article-title">编程，是一种信仰</div>
+        <div class="article-title">编程，是一种信仰 !</div>
         <p>
           随着人工智能和机器学习的发展，无人汽车、机器人、大数据及自动化的普及
           ，未来 20年内，80%
