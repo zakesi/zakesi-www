@@ -1,14 +1,14 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "499c9dde0a34652ba1b66653cd4ef599",
+    "revision": "2669753fbad6ec151b464cb53a1ed1a5",
     "url": "/app.html"
   },
   {
-    "revision": "8545dd6fa62edbd74de4",
-    "url": "/css/about.7ba8609e.css"
+    "revision": "a7706a4572842efcdd8c",
+    "url": "/css/about.1d0da2bb.css"
   },
   {
-    "revision": "d408d7665b48119cba81",
+    "revision": "f58ac94baac43a0a0f02",
     "url": "/css/app.e87fbc6f.css"
   },
   {
@@ -40,12 +40,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/logo-gray-tencent.c45c3e71.svg"
   },
   {
-    "revision": "8545dd6fa62edbd74de4",
-    "url": "/js/about.2aa0ae76.js"
+    "revision": "a7706a4572842efcdd8c",
+    "url": "/js/about.d2d21d5d.js"
   },
   {
-    "revision": "d408d7665b48119cba81",
-    "url": "/js/app.b79d01d1.js"
+    "revision": "f58ac94baac43a0a0f02",
+    "url": "/js/app.3824989e.js"
   },
   {
     "revision": "eca94e013a19b65867e7",

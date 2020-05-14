@@ -34,6 +34,33 @@
         <p>
           我们相信开源的力量，相信聚群的力量，我们憧憬着用最彻底的方式做出我们心中最理想教育模式。从心出发，未来快乐！
         </p>
+
+        <div>
+          <img
+            class="article-img"
+            src="https://vip-assets.jiker.com/for_neon_project/WechatIMG1.jpeg"
+          />
+          <img
+            class="article-img"
+            src="https://vip-assets.jiker.com/for_neon_project/WechatIMG2.jpeg"
+          />
+          <img
+            class="article-img"
+            src="https://vip-assets.jiker.com/for_neon_project/WechatIMG3.jpeg"
+          />
+          <img
+            class="article-img"
+            src="https://vip-assets.jiker.com/for_neon_project/WechatIMG6.jpeg"
+          />
+          <img
+            class="article-img"
+            src="https://vip-assets.jiker.com/for_neon_project/WechatIMG7.jpeg"
+          />
+          <img
+            class="article-img"
+            src="https://vip-assets.jiker.com/for_neon_project/WechatIMG8.jpeg"
+          />
+        </div>
       </div>
     </div>
   </div>
@@ -117,7 +144,14 @@ export default {
   padding: 0 20px;
   margin: 0 auto;
   line-height: 2;
-  text-indent: 30px;
   font-size: 16px;
+  p {
+    text-indent: 30px;
+  }
+}
+
+.article-img {
+  max-width: 100%;
+  margin: 10px auto;
 }
 </style>
