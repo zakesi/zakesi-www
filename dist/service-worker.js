@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.0ffffdcd92ea1bf28639f2db6805b0a1.js"
+  "/precache-manifest.59370834b506e84556af433a94dadb63.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "zakesi-www"});
