@@ -59,7 +59,7 @@
         <div class="footer-vertical_bottom">
           <div class="copyright-container">
             Copyright © 2020 ❤️ 扎克斯体验技术部出品
-            <a href="http://www.beian.miit.gov.cn" target="_blank"
+            <a href="https://beian.miit.gov.cn" target="_blank"
               >粤ICP备18089899号
             </a>
             <a
