@@ -7,7 +7,7 @@
             <div class="feature-content">
               <div class="feature-item-icon">
                 <img
-                  src="https://cn.udacity.com/assets/iridium/images/shared/icons/icon-bulb.svg"
+                  src="https://q2.cdn.prodegree.com/default/2020/0307/HQqpsCj6ld337xa9P6QbIalIdi2Y2vEM9UoxtVLO.svg"
                 />
               </div>
               <div class="feature-item-title">
@@ -22,14 +22,14 @@
           <div class="feature-item-right">
             <div class="feature-content">
               <div class="feature-item-images">
-                <img
+                <!-- <img
                   class="shadow-right"
                   src="https://cn.udacity.com/assets/iridium/images/shared/features/thumb-competitive-skills-fg.jpg"
                 />
                 <img
                   class="abs-right"
                   src="https://cn.udacity.com/assets/iridium/images/shared/features/thumb-competitive-skills-bg.jpg"
-                />
+                /> -->
               </div>
             </div>
           </div>
@@ -38,14 +38,14 @@
           <div class="feature-item-left">
             <div class="feature-content">
               <div class="feature-item-images">
-                <img
+                <!-- <img
                   class="shadow-right"
                   src="https://cn.udacity.com/assets/iridium/images/shared/features/thumb-get-hired-fg.jpg"
                 />
                 <img
                   class="abs-left"
                   src="https://cn.udacity.com/assets/iridium/images/shared/features/thumb-get-hired-bg.jpg"
-                />
+                /> -->
               </div>
             </div>
           </div>
@@ -53,7 +53,7 @@
             <div class="feature-content">
               <div class="feature-item-icon">
                 <img
-                  src="https://cn.udacity.com/assets/iridium/images/shared/icons/icon-badge.svg"
+                  src="https://q2.cdn.prodegree.com/default/2020/0307/I5K80StMPvp6QY5jBpo3J9tlTECMnj7v31TiuAfr.svg"
                 />
               </div>
               <div class="feature-item-title magenta">
@@ -71,7 +71,7 @@
             <div class="feature-content">
               <div class="feature-item-icon">
                 <img
-                  src="https://cn.udacity.com/assets/iridium/images/shared/icons/icon-keys.svg"
+                  src="https://q2.cdn.prodegree.com/default/2020/0307/HQqpsCj6ld337xa9P6QbIalIdi2Y2vEM9UoxtVLO.svg"
                 />
               </div>
               <div class="feature-item-title purple">
@@ -86,14 +86,14 @@
           <div class="feature-item-right">
             <div class="feature-content">
               <div class="feature-item-images">
-                <img
+                <!-- <img
                   class="shadow-right"
                   src="https://cn.udacity.com/assets/iridium/images/shared/features/thumb-impact-fg.jpg"
                 />
                 <img
                   class="abs-right"
                   src="https://cn.udacity.com/assets/iridium/images/shared/features/thumb-impact-bg.jpg"
-                />
+                /> -->
               </div>
             </div>
           </div>
@@ -147,15 +147,9 @@ export default {
     height: 5rem;
     border-radius: 50%;
     background-color: #fff;
-    box-shadow: 5px 5px 25px 0 rgba(46, 61, 73, 0.2);
     text-align: center;
     margin-bottom: 1.5rem;
     img {
-      max-width: 100%;
-      position: relative;
-      top: 50%;
-      transform: translateY(-50%);
-      filter: grayscale(100%);
     }
   }
   .feature-item-title {
